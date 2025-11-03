@@ -129,7 +129,7 @@ header {
 .fait {
     text-decoration: line-through;
     color: var(--couleur-texte-fait);
-    cursor: default;
+    cursor: pointer;
 }
 
 .titre-tache-fait {
